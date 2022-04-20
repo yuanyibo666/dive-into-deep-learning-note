@@ -1,2 +1,1 @@
-# dive-into-deep-learning-note
-This node is my practice of deep learning process
+##这是我的深度学习测试代码笔记，由colab同步更新
